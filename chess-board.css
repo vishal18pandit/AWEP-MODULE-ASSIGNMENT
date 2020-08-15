@@ -1,0 +1,32 @@
+
+        body {
+            margin: 0;
+            padding: 0;
+           
+
+        }
+
+        .main {
+            height: 80vh;
+            width: 80vh;
+            border: 4px solid black;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .one {
+            flex: 1;
+            display: flex;
+        }
+        
+        .o1 {
+            background: white;
+            flex: 1;
+        }
+
+        .o2 {
+            background: black;
+            flex: 1;
+
+        }
+    
